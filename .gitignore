@@ -25,4 +25,5 @@
 *.token
 .ipynb_checkpoints
 build
+tables
 *.egg-info
