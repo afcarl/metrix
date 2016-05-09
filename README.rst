@@ -8,3 +8,5 @@ Econometrics Examples
 `Testing ADL model <https://github.com/khrapovs/metrix/blob/master/notebooks/adl_model.ipynb>`_
 
 `Confidence intervals for proportion estimator <https://github.com/khrapovs/metrix/blob/master/notebooks/ci_for_proportion.ipynb>`_
+
+`HAC estimation <https://github.com/khrapovs/metrix/blob/master/notebooks/hac_estimation_fxrates.ipynb>`_
