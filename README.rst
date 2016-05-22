@@ -12,3 +12,5 @@ Econometrics Examples
 `HAC estimation <https://github.com/khrapovs/metrix/blob/master/notebooks/hac_estimation_fxrates.ipynb>`_
 
 `Asymptotic and Bootstrap Confidence Intervals <https://github.com/khrapovs/metrix/blob/master/notebooks/asymptotic_and_bootstrap_ci.ipynb>`_
+
+`Nonparametric estimation with rabbits data <https://github.com/khrapovs/metrix/blob/master/notebooks/nonparametric_rabbits.ipynb>`_
