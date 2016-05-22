@@ -10,3 +10,5 @@ Econometrics Examples
 `Confidence intervals for proportion estimator <https://github.com/khrapovs/metrix/blob/master/notebooks/ci_for_proportion.ipynb>`_
 
 `HAC estimation <https://github.com/khrapovs/metrix/blob/master/notebooks/hac_estimation_fxrates.ipynb>`_
+
+`Asymptotic and Bootstrap Confidence Intervals <https://github.com/khrapovs/metrix/blob/master/notebooks/asymptotic_and_bootstrap_ci.ipynb>`_
