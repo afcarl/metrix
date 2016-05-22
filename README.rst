@@ -14,3 +14,5 @@ Econometrics Examples
 `Asymptotic and Bootstrap Confidence Intervals <https://github.com/khrapovs/metrix/blob/master/notebooks/asymptotic_and_bootstrap_ci.ipynb>`_
 
 `Nonparametric estimation with rabbits data <https://github.com/khrapovs/metrix/blob/master/notebooks/nonparametric_rabbits.ipynb>`_
+
+`Nonparametric estimation of Doppler function <https://github.com/khrapovs/metrix/blob/master/notebooks/doppler_nonparametrics.ipynb>`_
