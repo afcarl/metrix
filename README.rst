@@ -29,6 +29,8 @@ Econometrics Examples
 
 `MLE with Poisson model <https://github.com/khrapovs/metrix/blob/master/notebooks/mle_poisson.ipynb>`_
 
+`MLE with Probit model <https://github.com/khrapovs/metrix/blob/master/notebooks/mle_probit.ipynb>`_
+
 `Unemployment duration <https://github.com/khrapovs/metrix/blob/master/notebooks/unemployment_duration.ipynb>`_
 
 `Durbin-Wu-Hausman (DWH) test with demand and supply data <https://github.com/khrapovs/metrix/blob/master/notebooks/dwh_test_demand_supply.ipynb>`_
