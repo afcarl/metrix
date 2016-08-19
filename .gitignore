@@ -8,7 +8,6 @@
 *.h5
 *.tex~
 *.eps
-*.zip
 *.bst
 *.out
 *.mexa64
@@ -25,3 +24,4 @@
 build
 tables
 *.egg-info
+data/WorldBank

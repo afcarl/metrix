@@ -18,3 +18,5 @@ Econometrics Examples
 `Nonparametric estimation of Doppler function <https://github.com/khrapovs/metrix/blob/master/notebooks/doppler_nonparametrics.ipynb>`_
 
 `Non-linear Least Squares with attendance data <https://github.com/khrapovs/metrix/blob/master/notebooks/nls_optimization.ipynb>`_
+
+`Unemployment duration <https://github.com/khrapovs/metrix/blob/master/notebooks/unemployment_duration.ipynb>`_
