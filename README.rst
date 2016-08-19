@@ -19,7 +19,9 @@ Econometrics Examples
 
 `Non-linear Least Squares with attendance data <https://github.com/khrapovs/metrix/blob/master/notebooks/nls_optimization.ipynb>`_
 
-`MLE with exponential distribution <https://github.com/khrapovs/metrix/blob/master/notebooks/mle_exponential.ipynb>`_
+`MLE with Exponential distribution <https://github.com/khrapovs/metrix/blob/master/notebooks/mle_exponential.ipynb>`_
+
+`MLE with Normal distribution <https://github.com/khrapovs/metrix/blob/master/notebooks/mle_normal.ipynb>`_
 
 `Unemployment duration <https://github.com/khrapovs/metrix/blob/master/notebooks/unemployment_duration.ipynb>`_
 
