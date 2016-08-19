@@ -16,3 +16,5 @@ Econometrics Examples
 `Nonparametric estimation with rabbits data <https://github.com/khrapovs/metrix/blob/master/notebooks/nonparametric_rabbits.ipynb>`_
 
 `Nonparametric estimation of Doppler function <https://github.com/khrapovs/metrix/blob/master/notebooks/doppler_nonparametrics.ipynb>`_
+
+`Non-linear Least Squares with attendance data <https://github.com/khrapovs/metrix/blob/master/notebooks/nls_optimization.ipynb>`_
