@@ -22,3 +22,5 @@ Econometrics Examples
 `Unemployment duration <https://github.com/khrapovs/metrix/blob/master/notebooks/unemployment_duration.ipynb>`_
 
 `Durbin-Wu-Hausman (DWH) test with demand and supply data <https://github.com/khrapovs/metrix/blob/master/notebooks/dwh_test_demand_supply.ipynb>`_
+
+`Fama-McBeth regressions <https://github.com/khrapovs/metrix/blob/master/notebooks/fama_mcbeth_cay_factor.py>`_
